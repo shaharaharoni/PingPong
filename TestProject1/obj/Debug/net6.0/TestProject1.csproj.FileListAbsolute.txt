@@ -1,0 +1,6 @@
+C:\Users\t-saharoni\source\repos\PingPong\TestProject3\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\t-saharoni\source\repos\PingPong\TestProject3\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\t-saharoni\source\repos\PingPong\TestProject3\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-saharoni\source\repos\PingPong\TestProject3\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\t-saharoni\source\repos\PingPong\TestProject3\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+C:\Users\t-saharoni\source\repos\PingPong\TestProject3\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache

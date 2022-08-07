@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6phHUxneeZccccJsEIzorXU1JZlyzLVa3JKo/yugqf/n3xFKH4Zpv5pWvqxSXLX3Spk2I/U59c66sk3psrnpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t-saharoni\\source\\repos\\PingPong\\APIService\\APIService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.servicefabric\\9.0.1028\\microsoft.servicefabric.9.0.1028.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.servicefabric.data\\6.0.1028\\microsoft.servicefabric.data.6.0.1028.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\6.0.1028\\microsoft.servicefabric.data.extensions.6.0.1028.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\6.0.1028\\microsoft.servicefabric.data.interfaces.6.0.1028.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\6.0.1028\\microsoft.servicefabric.diagnostics.internal.6.0.1028.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.servicefabric.services\\6.0.1028\\microsoft.servicefabric.services.6.0.1028.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\t-saharoni\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
